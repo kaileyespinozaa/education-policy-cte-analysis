@@ -1,5 +1,5 @@
 # California's Hands-On Education Gap 
-Hands-on education is often described as the primary way to bridge the scholarly experience to the real-world skills by providing a plethora of tools. In California high schools, the most tool-providing form of education we provide is Career Technical Education, or CTE. 
+Hands-on education is often described as the primary way to bridge the scholarly experience to the real-world occupational-abiding skill palette by providing a plethora of tools. In California high schools, the most tool-providing form of education we provide is Career Technical Education, or CTE. 
 CTE pathways aim to help students connect classroom lectures to careers, technical skills, and future college or workforce opportunities. 
 
 This Project aims to observe and analyze California's College/Career Indicator dataset to ask:
